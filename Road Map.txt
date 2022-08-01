@@ -1,0 +1,34 @@
+Important Points
+
+1. Rules
+=> Practice
+=> Empty Mind
+=> Videos and Reading (Important)
+=> Notes by urself
+=> To read the error and understand 
+
+2. What we are going to cover
+Tools => Purpose
+=> console.log() (DONE)
+=> variable, const and let keyword (DONE)
+=> Operators
+=> data types
+=> Accessing Values in datatypes
+=> typecasting 
+=> condition :- if , if -else, nested if else 
+=> loops, for, foreach, while loop, 
+=> event 
+=> function
+=> String Methods 
+=> Array Methods
+=> class & methods
+=> Chrome Dev Tools
+
+3. Explaination by me
+=> My Working Area
+
+4. Practice Examples on each fundamentals
+=> Neha Working Area
+
+4. Doubts
+=> Team Working on this area
